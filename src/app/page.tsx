@@ -1,9 +1,9 @@
-import Image from "next/image";
+import LandingPage from "@/pages/landingPage";
 
 export default function Home() {
   return (
     <div>
-      HEALTH SNAP
+      <LandingPage/>
     </div>
   );
 }
